@@ -1,0 +1,10 @@
+fer
+pydub
+datetime
+numpy
+ffmpeg-python
+pathlib
+matplotlib
+tqdm
+opencv-python
+deepface
